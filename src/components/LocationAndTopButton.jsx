@@ -16,38 +16,38 @@ function Location() {
         </div>
 
         <div className="mx-5 max-w-[900px]">
-          <img className="rounded-t-2xl" src="./assets/loja_recife.jpg"/>
+          <img className="rounded-t-2xl" src="./assets/loja_jp.jpg"/>
         </div>
 
         <div className="flex flex-col justify-center items-center text-center rounded-b-2xl mb-12 mx-5 bg-secondary h-[340px] w-auto max-w-[900px]">
-          <p className="text-white mb-4 font-arimo mx-4 text-2xl font-bold">Recife</p>
+          <p className="text-white mb-4 font-arimo mx-4 text-2xl font-bold">João Pessoa</p>
           <p className="text-white mb-6 font-arimo mx-4 text-base">
-            Av. Eng. Domingos Ferreira, 1183<br />Boa Viagem, 51011-051
+            Av. Barão de Mamanguape, 642<br />Torre, 58040-330
           </p>
           <a href="https://maps.app.goo.gl/jzyCbyggAsw7pd6M7" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl h-10 w-44 sm:w-72 sm:text-[17px]">
             Como chegar
           </a>
           <span className="text-white font-arimo italic m-3">Ou</span>
           <a href="tel:+558133274262" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
-            (081) 3327-4262
+            (083) 3224-5025
           </a>
         </div>
 
         <div className="mx-5 max-w-[900px]">
-          <img className="rounded-t-2xl" src="./assets/loja_caruaru.jpg" alt="" />
+          <img className="rounded-t-2xl" src="./assets/loja_cg.jpg" alt="" />
         </div>
 
         <div className="flex flex-col justify-center items-center text-center rounded-b-2xl mb-16 mx-5 bg-secondary h-[340px] w-auto max-w-[900px]">
-          <p className="text-white mb-4 font-arimo mx-4 text-2xl font-bold">Caruaru</p>
+          <p className="text-white mb-4 font-arimo mx-4 text-2xl font-bold">Campina Grande</p>
           <p className="text-white mb-6 font-arimo mx-4 text-base">
-            Av. Agamenon Magalhães, 1678<br />Maurício de Nassau, 55014-000
+            Av. Mal. Floriano Peixoto, 1175<br />Centro, 58400-165
           </p>
           <a href="https://maps.app.goo.gl/EfMoAD2Ys1CQtpQb6" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
             Como chegar
           </a>
           <span className="text-white font-arimo italic m-3">Ou</span>
           <a href="tel:+558137212117" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
-            (081) 3721-2117
+            (083) 3065-6335
           </a>
         </div>
 
