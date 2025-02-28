@@ -24,7 +24,7 @@ function Location() {
           <p className="text-white mb-6 font-arimo mx-4 text-base">
             Av. Barão de Mamanguape, 642<br />Torre, 58040-330
           </p>
-          <a href="https://maps.app.goo.gl/jzyCbyggAsw7pd6M7" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl h-10 w-44 sm:w-72 sm:text-[17px]">
+          <a href="https://maps.app.goo.gl/hdF2AHcxnKbymAEZ6" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl h-10 w-44 sm:w-72 sm:text-[17px]">
             Como chegar
           </a>
           <span className="text-white font-arimo italic m-3">Ou</span>
@@ -42,7 +42,7 @@ function Location() {
           <p className="text-white mb-6 font-arimo mx-4 text-base">
             Av. Mal. Floriano Peixoto, 1175<br />Centro, 58400-165
           </p>
-          <a href="https://maps.app.goo.gl/EfMoAD2Ys1CQtpQb6" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
+          <a href="https://maps.app.goo.gl/4bihX2UXLrBFp7hx5" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
             Como chegar
           </a>
           <span className="text-white font-arimo italic m-3">Ou</span>
