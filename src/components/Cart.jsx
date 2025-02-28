@@ -2,12 +2,12 @@ import { HiShoppingCart } from "react-icons/hi";
 import { FaCircle, FaTrash } from "react-icons/fa";
 import { MdOutlineRemoveShoppingCart, MdKeyboardBackspace } from "react-icons/md";
 
-/* eslint-disable react/prop-types */
+
 function Cart({ cartCount, cartItems, handleRemoveItem, isCartOpen, handleToggleCart }) {
 
   const getSellerNumber = () => {
     const urlParams = new URLSearchParams(window.location.search);
-    return urlParams.get('seller') || '5581994704858';
+    return urlParams.get('seller') || '5583987661386';
   };
 
   const generateCartMessage = () => {

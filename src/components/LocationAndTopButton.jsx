@@ -28,7 +28,7 @@ function Location() {
             Como chegar
           </a>
           <span className="text-white font-arimo italic m-3">Ou</span>
-          <a href="tel:+558133274262" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
+          <a href="tel:+558332245025" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
             (083) 3224-5025
           </a>
         </div>
@@ -46,7 +46,7 @@ function Location() {
             Como chegar
           </a>
           <span className="text-white font-arimo italic m-3">Ou</span>
-          <a href="tel:+558137212117" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
+          <a href="tel:+558330656335" className="bg-white text-secondary font-bold py-2 px-4 rounded-xl w-44 sm:w-72 sm:text-[17px]">
             (083) 3065-6335
           </a>
         </div>
