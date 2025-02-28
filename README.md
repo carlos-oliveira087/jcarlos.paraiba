@@ -26,24 +26,24 @@ jcarlos-pb.com.br
 ### Desktop:
 <table>
   <tr>
-    <td><img src="Jcarlos_project\public\assets\print_10.png" width="300"></td>
-    <td><img src="Jcarlos_project\public\assets\print_1.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_10.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_1.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="Jcarlos_project\public\assets\print_2.png" width="300"></td>
-    <td><img src="Jcarlos_project\public\assets\print_3.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_2.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_3.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="Jcarlos_project\public\assets\print_4.png" width="300"></td>
-    <td><img src="Jcarlos_project\public\assets\print_5.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_4.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_5.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="Jcarlos_project\public\assets\print_6.png" width="300"></td>
-    <td><img src="Jcarlos_project\public\assets\print_7.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_6.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_7.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="Jcarlos_project\public\assets\print_8.png" width="300"></td>
-    <td><img src="Jcarlos_project\public\assets\print_9.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_8.png" width="300"></td>
+    <td><img src="jcarlos_paraiba\public\assets\print_9.png" width="300"></td>
   </tr>
 </table>
 
